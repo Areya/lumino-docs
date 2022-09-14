@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Lumino Docs',
   tagline: 'The Documentation for the Lumino CMS',
-  url: 'https://benjaminvoelkl.github.io',
-  baseUrl: '/docs-test/',
+  url: 'https://docs.getlumino.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
