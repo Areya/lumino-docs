@@ -9,7 +9,7 @@ const config = {
   title: 'Lumino Docs',
   tagline: 'The Documentation for the Lumino CMS',
   url: 'https://benjaminvoelkl.github.io',
-  baseUrl: '/docs-test',
+  baseUrl: '/docs-test/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
