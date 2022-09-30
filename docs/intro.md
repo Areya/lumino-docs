@@ -19,4 +19,4 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
 
 ## Generate a new site
 
-fasd
+this is the new version areya github

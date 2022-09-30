@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2752f680-ec4b-4210-a2ab-94cb16400027" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
     </list>
@@ -41,7 +42,7 @@
       <updated>1664555132413</updated>
       <workItem from="1664555134845" duration="2351000" />
       <workItem from="1664557946741" duration="7000" />
-      <workItem from="1664557960676" duration="559000" />
+      <workItem from="1664557960676" duration="1196000" />
     </task>
     <servers />
   </component>
